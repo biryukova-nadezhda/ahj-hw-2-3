@@ -1,5 +1,5 @@
 ## DOM
-Git-pages:
+Git-pages: https://biryukova-nadezhda.github.io/ahj-hw-2-3/
 
 [![Build status](https://ci.appveyor.com/api/projects/status/2c1qhm8xkv2hhsid?svg=true)](https://ci.appveyor.com/project/biryukova-nadezhda/ahj-hw-2-3)
 
